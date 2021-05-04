@@ -1,4 +1,5 @@
-import { Card } from 'react-bootstrap';
+import { Card, Button } from 'react-bootstrap';
+import Blink from 'react-blink-text';
 export const Features = (props) => {
   return (
     <div id='features' className='text-center'>
@@ -19,7 +20,10 @@ export const Features = (props) => {
                 <h2>Features</h2>
                 <ol style={{ fontSize: "20px" }}>
                   <li>
-                    Live Class
+                    7 days live bootcamp
+                  </li>
+                  <li>
+                    Small Batch Size
                   </li>
                   <li>
                     Problem solving from Hackerrank
@@ -33,7 +37,13 @@ export const Features = (props) => {
                   <li>
                     Opportunity To Work With Us
                   </li>
+                  <li>
+                    Evening Time
+                  </li>
                 </ol>
+                <a href="https://rzp.io/l/hs7CGJ8NW"> <Button><Blink color="white" text='Book Your Spot Now @ 279 ₹' fontSize='20'></Blink></Button></a>
+                <br />
+                <br />
               </Card>
             ))
             : 'Loading...'}

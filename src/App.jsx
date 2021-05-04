@@ -28,7 +28,7 @@ const App = () => {
       <Header data={landingPageData.Header} />
       <Features data={landingPageData.Features} />
       <About data={landingPageData.About} />
-      <Services data={landingPageData.Services} />
+
 
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />
@@ -37,5 +37,6 @@ const App = () => {
 }
 
 export default App
+//<Services data={landingPageData.Services} />
   //  <Gallery />
   //< Testimonials data = { landingPageData.Testimonials } />
