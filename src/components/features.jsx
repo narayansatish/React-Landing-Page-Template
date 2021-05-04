@@ -41,7 +41,7 @@ export const Features = (props) => {
                     Evening Time
                   </li>
                 </ol>
-                <a href="https://rzp.io/l/hs7CGJ8NW"> <Button><Blink color="white" text='Book Your Spot Now @ 279 ₹' fontSize='20'></Blink></Button></a>
+                <a href="https://rzp.io/l/hs7CGJ8NW"> <Button><Blink color="white" text='Book Your Spot Now @ 289 ₹' fontSize='20'></Blink></Button></a>
                 <br />
                 <br />
               </Card>
