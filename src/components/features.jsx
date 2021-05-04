@@ -2,9 +2,9 @@ import { Card, Button } from 'react-bootstrap';
 import Blink from 'react-blink-text';
 export const Features = (props) => {
   return (
-    <div id='features' className='text-center'>
-      <div className='containerFluid'>
-        <div className='col-md-12  section-title'>
+    <div className='text-center' style={{ marginLeft: "10%" }} >
+      <div >
+        <div className='col-md-12  section-title' style={{ width: "100%" }}>
           <h2>Programming Langauge</h2>
         </div>
         <div className='row'>
