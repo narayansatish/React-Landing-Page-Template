@@ -2,7 +2,7 @@ import { Card, Button } from 'react-bootstrap';
 import Blink from 'react-blink-text';
 export const Features = (props) => {
   return (
-    <div className='text-center' style={{ marginLeft: "10%" }} >
+    <div className='text-center' style={{ marginLeft: "5%" }} >
       <div >
         <div className='col-md-12  section-title' style={{ width: "100%" }}>
           <h2>Programming Langauge</h2>
@@ -10,7 +10,7 @@ export const Features = (props) => {
         <div className='row'>
           {props.data
             ? props.data.map((d, i) => (
-              <Card key={`${d.title}-${i}`} className='col-xs-12 col-md-6'>
+              <Card key={`${d.title}-${i}`} className='col-xs-12 col-md-6' >
                 {' '}
                 <img src={d.icon} />
                 <h3>{d.title}</h3>
@@ -38,7 +38,10 @@ export const Features = (props) => {
                     Opportunity To Work With Us
                   </li>
                   <li>
-                    Evening Time
+                    Hinglish Langauge
+                  </li>
+                  <li>
+                    *Book Only If You have laptop and  Free For 7 days
                   </li>
                 </ol>
                 <a href="https://rzp.io/l/hs7CGJ8NW"> <Button><Blink color="white" text='Book Your Spot Now @ 289 ₹' fontSize='20'></Blink></Button></a>

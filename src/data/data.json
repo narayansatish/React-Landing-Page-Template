@@ -2,23 +2,18 @@
     "Header": {
 
         "title": "First Year Live Coding Learning Program",
-        "paragraph": "We Are Here To Start Your Programming Journey "
+        "paragraph": "We Are Here To help you  Start Your Programming Journey "
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "We are team of Computer Science Graduate,Who Felt The Need To Help In Starting Of Your Programming Journey.Starting Is The Most Difficult Task ,Confused About From Where To Start,What To Solve And Many More Jargon",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
-        ],
-        "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "You Can Ask Anything You Want",
+            "Live Doubt Solving! ",
+            "Introduction To Hackerrank Platform",
+            "Opportunity To Work With Us On Completion Of BootCamp"
         ]
+       
     },
     "Services": [{
             "icon": "fa fa-wordpress",
@@ -85,28 +80,15 @@
         }
     ],
     "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
+            "img": "https://i.ibb.co/tBVNb7b/profile-pic.jpg",
+            "name": "Satish Narayan",
             "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
         }
+        
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
+        
+        "phone": "+91 8910043481",
         "email": "info@company.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
