@@ -43,6 +43,9 @@ export const Features = (props) => {
                   <li>
                     *Book Only If You have laptop and  Free For 7 days
                   </li>
+                  <li>
+                    *100% Refund In Case Of Not Attending Or Not Liking The bootcamp
+                  </li>
                 </ol>
                 <a href="https://rzp.io/l/hs7CGJ8NW"> <Button><Blink color="white" text='Book Your Spot Now @ 289 ₹' fontSize='20'></Blink></Button></a>
                 <br />
