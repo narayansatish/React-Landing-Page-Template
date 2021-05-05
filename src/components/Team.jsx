@@ -16,6 +16,7 @@ export const Team = (props) => {
             <div className='caption'>
               <h4><a href="https://satishnarayan.netlify.app/">Satish Narayan</a></h4>
               <p>Mentor</p>
+              <p>Incoming Software Developer @JIO</p>
             </div>
           </div>
         </div>

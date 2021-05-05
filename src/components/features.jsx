@@ -20,6 +20,9 @@ export const Features = (props) => {
                 <h2>Features</h2>
                 <ol style={{ fontSize: "20px" }}>
                   <li>
+                    Learn From Incoming Software Developer Of Jio
+                  </li>
+                  <li>
                     7 days live bootcamp
                   </li>
                   <li>
